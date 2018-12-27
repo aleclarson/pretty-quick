@@ -1,0 +1,1 @@
+type State = {value: string}
